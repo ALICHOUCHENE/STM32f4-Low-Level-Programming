@@ -8,8 +8,8 @@ int main(void)
 	Setup();
 	while(1)
 	{
-		GPIOA->ODR ^=0x20;                        // Togle the LED
-		SystTickDelayMs(500);                     // Delay Function.
+		GPIOA->ODR ^=0x20;                        // Toggle the LED
+		SystTickDelayMs(500);                     // Delay Function
 	}
 }
 
