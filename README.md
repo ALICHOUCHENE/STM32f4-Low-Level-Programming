@@ -1,5 +1,6 @@
 # STM32f4-Low-Level-Programming
-Low Level Programming And direct Register Manipulation
+Low Level Programming And direct Register Manipulation.
+
 Navigating the microntroller reference manual and datasheet to build peripheral drivers and firmware using the STM32 Low-Layer APIs.
 
 - Software needed : 
